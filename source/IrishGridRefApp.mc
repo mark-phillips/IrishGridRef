@@ -5,6 +5,11 @@ class IrishGridRefApp extends App.AppBase {
 
     var view = null;
 
+
+    function initialize() {
+        AppBase.initialize();
+    }
+
     function onSettingsChanged() {
       if (view != null) {
         view.updateSettings = true;

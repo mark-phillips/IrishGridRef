@@ -6,6 +6,7 @@
             <iq:product id="oregon7xx"/>
             <iq:product id="rino7xx"/>
             <iq:product id="vivoactive"/>
+            <iq:product id="fr645m"/>
             <iq:product id="edge820"/>
             <iq:product id="fr230"/>
             <iq:product id="fr630"/>
@@ -18,20 +19,23 @@
             <iq:product id="edge_1000"/>
             <iq:product id="descentmk1"/>
             <iq:product id="fenix3"/>
+            <iq:product id="edge130"/>
             <iq:product id="fenix5"/>
             <iq:product id="d2bravo"/>
             <iq:product id="d2charlie"/>
             <iq:product id="fr735xt"/>
+            <iq:product id="edge520plus"/>
             <iq:product id="edge_520"/>
             <iq:product id="epix"/>
             <iq:product id="fenix5x"/>
             <iq:product id="vivoactive3"/>
             <iq:product id="approachs60"/>
+            <iq:product id="fr645"/>
             <iq:product id="fenix3_hr"/>
         </iq:products>
-        <iq:permissions/>
-        <iq:languages>
-            <iq:language>eng</iq:language>
-        </iq:languages>
+        <iq:permissions>
+            <iq:uses-permission id="Positioning"/>
+        </iq:permissions>
+        <iq:languages/>
     </iq:application>
 </iq:manifest>
