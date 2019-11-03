@@ -1,3 +1,5 @@
+V1.32 - Add support for fenix6 fenix6pro fenix6s fenix6spro fenix6xpro gpsmap86 legacysagarey marqadventurer marqcommander venu vivoactive4 vivoactive4s 
+
 V1.31 - Add support for edge530 edge830 fenix5splus fenix5xplus fr245 fr245m fr945 gpsmap66 marqathlete marqaviator marqcaptain marqdriver marqexpedition vivoactive3mlte vivoactive3d
          
 V1.2 - Add support for fr645m,edge130, edge520plus, fr645   + position permissions
