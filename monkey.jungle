@@ -1,0 +1,7 @@
+project.manifest = manifest.xml
+excludeAnnotations = test
+commondir = "C:\Users\markp\Documents\eclipse-workspaces\garmin\GridRefCommonCode\source"
+irdir = "C:\Users\markp\Documents\eclipse-workspaces\garmin\IrishGridRefShared\source"
+base.sourcePath = $(base.sourcePath);$(irdir);$(commondir)
+
+
