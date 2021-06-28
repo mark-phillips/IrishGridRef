@@ -1,3 +1,4 @@
+V1.4  - Add support for approachs62, d2air, descentmk2, descentmk2s, edge1030plus, edge130plus, enduro, fr55, fr745, fr945lte, marqgolfer, montana7xx, venu2, venu2s, venud, venusq, venusqm                                    
 V1.32 - Add support for fenix6 fenix6pro fenix6s fenix6spro fenix6xpro gpsmap86 legacysagarey marqadventurer marqcommander venu vivoactive4 vivoactive4s 
 
 V1.31 - Add support for edge530 edge830 fenix5splus fenix5xplus fr245 fr245m fr945 gpsmap66 marqathlete marqaviator marqcaptain marqdriver marqexpedition vivoactive3mlte vivoactive3d
